@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: url("https://i.ibb.co/2SkJ0nS/istockphoto-1140379193-1024x1024.jpg")
+  }
+  .tittle{
+    text-align: center;
+  }
+  header{
+    font-size: 25px;
+    font-weight:bolder;
+    text-align:center;
+    border-block:solid;
+  }
+  h2{
+   font-size: 35px;
+    font-weight:bolder;
+    text-align:center; 
+  }
+  ul{
+    margin:0;
+    padding:0;
+    background-color:white;
+    text-align:center;
+    font-color: black;
+  }
+  footer{
+    ont-size: 25px;
+    font-weight:bolder;
+    text-align:center;
+    border-block:solid
+  }
